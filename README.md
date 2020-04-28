@@ -37,6 +37,6 @@ The script makes some assumptions. It assumes that the recipient name is in the 
     * Clicking the [ <u>Send all</u> ] link will send your message to all mobile numbers in the second column.
     * Clicking the [ <u>Send to selected</u> ] link will send your message only to numbers in the selected rows.
     * Note that you can select disjoint rows using Ctrl-Click (or Cmd-Click on a Mac).
-14. After an SMS messages is sent it indicates the result by shading the cell.
+14. After SMS messages are sent, success is indicated with cell shading.
     * If successful, the cell containing the mobile number is shaded light green.
     * If the message fails to send, the cell containing the mobile number is shaded light red. This allows you to resend failed messages.
